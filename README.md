@@ -1,1 +1,1 @@
-# AMFT (Attribution Map Fine-Tuning)
+# AFT (Attribution Fine-Tuning)
