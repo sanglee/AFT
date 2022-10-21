@@ -1,1 +1,1 @@
-# AFT (Attribution Fine-Tuning)
+# AFT (Activation Fine-Tuning)
