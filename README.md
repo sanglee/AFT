@@ -13,3 +13,20 @@ You can read the full paper at
 👉 [Official Paper] (https://www.mdpi.com/2076-3417/12/24/12961)
 
 ---
+
+## Citation
+
+If you found this work or code useful, please cite us:
+
+```
+@article{han2022activation,
+  title={Activation Fine-Tuning of Convolutional Neural Networks for Improved Input Attribution Based on Class Activation Maps},
+  author={Han, Sungmin and Lee, Jeonghyun and Lee, Sangkyun},
+  journal={Applied Sciences},
+  volume={12},
+  number={24},
+  pages={12961},
+  year={2022},
+  publisher={MDPI}
+}
+```
