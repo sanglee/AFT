@@ -1,4 +1,4 @@
-# Activation Fine-Tuning of Convolutional Neural Networks for Improved Input Attribution Based on Class Activation Maps, Applied Sciences'22
+# Activation Fine-Tuning of Convolutional Neural Networks for Improved Input Attribution Based on Class Activation Maps, Applied Sciences`22
 **Sungmin Han, Jeonghyun Lee, Sangkyun Lee (Corresponding author)**  
 
 AIRLAB, School of Cybersecurity, Korea University
